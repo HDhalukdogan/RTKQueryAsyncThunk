@@ -1,14 +1,5 @@
 {
-  "users": [
-    {
-      "name": "Dixie Graham",
-      "id": 1
-    },
-    {
-      "name": "Stacy O'Hara",
-      "id": 2
-    }
-  ],
+  "users": [],
   "albums": [],
   "photos": []
 }

@@ -1,5 +1,56 @@
 {
-  "users": [],
-  "albums": [],
-  "photos": []
+  "users": [
+    {
+      "name": "Rosemarie Bergstrom DVM",
+      "id": 1
+    },
+    {
+      "name": "Heidi Leannon MD",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Luxurious Plastic Chips",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Steel Fish",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Concrete Keyboard",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Rustic Cotton Shoes",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Modern Steel Computer",
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70879",
+      "id": 1
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13250",
+      "id": 2
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12690",
+      "id": 3
+    }
+  ]
 }
